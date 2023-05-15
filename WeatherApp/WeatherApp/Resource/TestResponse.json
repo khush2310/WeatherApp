@@ -1,0 +1,53 @@
+{
+  "latitude": 43.70455,
+  "longitude": -79.4046,
+  "generationtime_ms": 1.425027847290039,
+  "utc_offset_seconds": -14400,
+  "timezone": "America/Toronto",
+  "timezone_abbreviation": "EDT",
+  "elevation": 180,
+  "daily_units": {
+    "time": "iso8601",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C",
+    "precipitation_probability_max": "%"
+  },
+  "daily": {
+    "time": [
+      "2023-05-11",
+      "2023-05-12",
+      "2023-05-13",
+      "2023-05-14",
+      "2023-05-15",
+      "2023-05-16",
+      "2023-05-17"
+    ],
+    "temperature_2m_max": [
+      26.4,
+      25.4,
+      24.3,
+      17.8,
+      21.9,
+      22.7,
+      14.2
+    ],
+    "temperature_2m_min": [
+      10.3,
+      12,
+      13.7,
+      10.8,
+      10.5,
+      9.7,
+      4.4
+    ],
+    "precipitation_probability_max": [
+      10,
+      3,
+      3,
+      0,
+      0,
+      29,
+      18
+    ]
+  }
+}
